@@ -1,6 +1,7 @@
 # Razok1611
 ## Antonio Cuesta Suárez
-### Hola buenas, tengo 18 años, vivo en pilas.
+### Edad: 18 años fecha nac.: 16/9/2005
+### Localidad: Pilas/Sevilla
 
 ## Estudios:
 ### -Eso en el I.E.S. Torre del Rey pilas.
